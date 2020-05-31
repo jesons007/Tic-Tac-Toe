@@ -10,10 +10,10 @@
 
 ## overview
 
-基于国内知名的uni-app框架(使用vue.js开发android app ,微信小程序的前端应用的一套框架),官网<https://uniapp.dcloud.io/README>.
+基于国内知名的uni-app框架(使用vue.js开发android app ,微信小程序等前端应用的一套框架),官网<https://uniapp.dcloud.io/README>.
 对于刚接触uni-app的新手，作为一个小的demo项目用来练手非常不错。
 
-![](../../static/2.jpg)
+![](./static/2.jpg)
 
 ## 使用
 
