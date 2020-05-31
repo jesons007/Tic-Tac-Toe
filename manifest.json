@@ -1,0 +1,46 @@
+{
+    "name" : "Tic-Tac-Toe",
+    "appid" : "******",
+    "description" : "Tic-Tac-Toe小游戏",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    "app-plus" : {
+        "nvueCompiler" : "uni-app",
+        "compilerVersion" : 3,
+        "modules" : {},
+        "distribute" : {
+            "android" : {
+                "permissions" : [],
+                "autoSdkPermissions" : true
+            },
+            "ios" : {},
+            "sdkConfigs" : {
+                "ad" : {}
+            },
+            "icons" : {
+                "android" : {
+                    "xxxhdpi" : "static/icon.png",
+                    "xxhdpi" : "static/icon.png",
+                    "xhdpi" : "static/icon.png",
+                    "hdpi" : "static/icon.png"
+                }
+            },
+            "splashscreen" : {
+                "android" : {
+                    "xxhdpi" : ""
+                }
+            }
+        },
+        "splashscreen" : {
+            "waiting" : false
+        }
+    },
+    "quickapp" : {},
+    "mp-weixin" : {
+        "appid" : "",
+        "setting" : {
+            "urlCheck" : true
+        }
+    }
+}
