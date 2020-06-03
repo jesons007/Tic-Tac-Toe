@@ -1,7 +1,7 @@
 <script>
 export default {
 	onLaunch: function() {
-		
+		//test
 	},
 	onShow: function() {
 		
